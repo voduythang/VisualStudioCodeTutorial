@@ -1,0 +1,13 @@
+D:\Code\Study\VisualStudioCode\bin\Release\netcoreapp3.1\VisualStudioCode.exe
+D:\Code\Study\VisualStudioCode\bin\Release\netcoreapp3.1\VisualStudioCode.deps.json
+D:\Code\Study\VisualStudioCode\bin\Release\netcoreapp3.1\VisualStudioCode.runtimeconfig.json
+D:\Code\Study\VisualStudioCode\bin\Release\netcoreapp3.1\VisualStudioCode.runtimeconfig.dev.json
+D:\Code\Study\VisualStudioCode\bin\Release\netcoreapp3.1\VisualStudioCode.dll
+D:\Code\Study\VisualStudioCode\bin\Release\netcoreapp3.1\VisualStudioCode.pdb
+D:\Code\Study\VisualStudioCode\obj\Release\netcoreapp3.1\VisualStudioCode.csprojAssemblyReference.cache
+D:\Code\Study\VisualStudioCode\obj\Release\netcoreapp3.1\VisualStudioCode.AssemblyInfoInputs.cache
+D:\Code\Study\VisualStudioCode\obj\Release\netcoreapp3.1\VisualStudioCode.AssemblyInfo.cs
+D:\Code\Study\VisualStudioCode\obj\Release\netcoreapp3.1\VisualStudioCode.csproj.CoreCompileInputs.cache
+D:\Code\Study\VisualStudioCode\obj\Release\netcoreapp3.1\VisualStudioCode.dll
+D:\Code\Study\VisualStudioCode\obj\Release\netcoreapp3.1\VisualStudioCode.pdb
+D:\Code\Study\VisualStudioCode\obj\Release\netcoreapp3.1\VisualStudioCode.genruntimeconfig.cache
