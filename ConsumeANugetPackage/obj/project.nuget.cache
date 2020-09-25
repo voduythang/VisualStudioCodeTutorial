@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WDBG9BAwjBET7kN9+hGhorSG0E9aVmPsgLfKP78wz9ruMI4aOS8nWHshU92dqcqcFSPWEGUbjQmOnogW0Mwk5g==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\Study\\VisualStudioCodeTutorial\\ConsumeANugetPackage\\ConsumeANugetPackage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DVO\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

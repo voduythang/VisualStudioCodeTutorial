@@ -1,0 +1,15 @@
+D:\Code\Study\VisualStudioCodeTutorial\ConsumeANugetPackage\obj\Debug\netcoreapp3.1\ConsumeANugetPackage.csprojAssemblyReference.cache
+D:\Code\Study\VisualStudioCodeTutorial\ConsumeANugetPackage\obj\Debug\netcoreapp3.1\ConsumeANugetPackage.AssemblyInfoInputs.cache
+D:\Code\Study\VisualStudioCodeTutorial\ConsumeANugetPackage\obj\Debug\netcoreapp3.1\ConsumeANugetPackage.AssemblyInfo.cs
+D:\Code\Study\VisualStudioCodeTutorial\ConsumeANugetPackage\obj\Debug\netcoreapp3.1\ConsumeANugetPackage.csproj.CoreCompileInputs.cache
+D:\Code\Study\VisualStudioCodeTutorial\ConsumeANugetPackage\bin\Debug\netcoreapp3.1\ConsumeANugetPackage.exe
+D:\Code\Study\VisualStudioCodeTutorial\ConsumeANugetPackage\bin\Debug\netcoreapp3.1\ConsumeANugetPackage.deps.json
+D:\Code\Study\VisualStudioCodeTutorial\ConsumeANugetPackage\bin\Debug\netcoreapp3.1\ConsumeANugetPackage.runtimeconfig.json
+D:\Code\Study\VisualStudioCodeTutorial\ConsumeANugetPackage\bin\Debug\netcoreapp3.1\ConsumeANugetPackage.runtimeconfig.dev.json
+D:\Code\Study\VisualStudioCodeTutorial\ConsumeANugetPackage\bin\Debug\netcoreapp3.1\ConsumeANugetPackage.dll
+D:\Code\Study\VisualStudioCodeTutorial\ConsumeANugetPackage\bin\Debug\netcoreapp3.1\ConsumeANugetPackage.pdb
+D:\Code\Study\VisualStudioCodeTutorial\ConsumeANugetPackage\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Code\Study\VisualStudioCodeTutorial\ConsumeANugetPackage\obj\Debug\netcoreapp3.1\ConsumeANugetPackage.csproj.CopyComplete
+D:\Code\Study\VisualStudioCodeTutorial\ConsumeANugetPackage\obj\Debug\netcoreapp3.1\ConsumeANugetPackage.dll
+D:\Code\Study\VisualStudioCodeTutorial\ConsumeANugetPackage\obj\Debug\netcoreapp3.1\ConsumeANugetPackage.pdb
+D:\Code\Study\VisualStudioCodeTutorial\ConsumeANugetPackage\obj\Debug\netcoreapp3.1\ConsumeANugetPackage.genruntimeconfig.cache
