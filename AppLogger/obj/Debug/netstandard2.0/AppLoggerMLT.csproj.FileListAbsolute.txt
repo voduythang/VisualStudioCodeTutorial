@@ -1,0 +1,9 @@
+D:\Code\Study\VisualStudioCodeTutorial\AppLogger\bin\Debug\netstandard2.0\AppLoggerMLT.deps.json
+D:\Code\Study\VisualStudioCodeTutorial\AppLogger\bin\Debug\netstandard2.0\AppLoggerMLT.dll
+D:\Code\Study\VisualStudioCodeTutorial\AppLogger\bin\Debug\netstandard2.0\AppLoggerMLT.pdb
+D:\Code\Study\VisualStudioCodeTutorial\AppLogger\obj\Debug\netstandard2.0\AppLoggerMLT.csprojAssemblyReference.cache
+D:\Code\Study\VisualStudioCodeTutorial\AppLogger\obj\Debug\netstandard2.0\AppLoggerMLT.AssemblyInfoInputs.cache
+D:\Code\Study\VisualStudioCodeTutorial\AppLogger\obj\Debug\netstandard2.0\AppLoggerMLT.AssemblyInfo.cs
+D:\Code\Study\VisualStudioCodeTutorial\AppLogger\obj\Debug\netstandard2.0\AppLoggerMLT.csproj.CoreCompileInputs.cache
+D:\Code\Study\VisualStudioCodeTutorial\AppLogger\obj\Debug\netstandard2.0\AppLoggerMLT.dll
+D:\Code\Study\VisualStudioCodeTutorial\AppLogger\obj\Debug\netstandard2.0\AppLoggerMLT.pdb
