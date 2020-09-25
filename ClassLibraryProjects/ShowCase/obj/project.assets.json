@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StringLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/StringLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StringLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StringLibrary/1.0.0": {
+      "type": "project",
+      "path": "../StringLibrary/StringLibrary.csproj",
+      "msbuildProject": "../StringLibrary/StringLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "StringLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DVO\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Code\\Study\\VisualStudioCodeTutorial\\ClassLibraryProjects\\ShowCase\\ShowCase.csproj",
+      "projectName": "ShowCase",
+      "projectPath": "D:\\Code\\Study\\VisualStudioCodeTutorial\\ClassLibraryProjects\\ShowCase\\ShowCase.csproj",
+      "packagesPath": "C:\\Users\\DVO\\.nuget\\packages\\",
+      "outputPath": "D:\\Code\\Study\\VisualStudioCodeTutorial\\ClassLibraryProjects\\ShowCase\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\DVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://baget.mantu.com/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "D:\\Code\\Study\\VisualStudioCodeTutorial\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj": {
+              "projectPath": "D:\\Code\\Study\\VisualStudioCodeTutorial\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

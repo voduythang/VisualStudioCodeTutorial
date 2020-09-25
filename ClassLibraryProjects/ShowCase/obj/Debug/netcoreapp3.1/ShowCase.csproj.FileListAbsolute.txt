@@ -1,0 +1,16 @@
+D:\Code\Study\VisualStudioCodeTutorial\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.csprojAssemblyReference.cache
+D:\Code\Study\VisualStudioCodeTutorial\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.AssemblyInfoInputs.cache
+D:\Code\Study\VisualStudioCodeTutorial\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.AssemblyInfo.cs
+D:\Code\Study\VisualStudioCodeTutorial\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.csproj.CoreCompileInputs.cache
+D:\Code\Study\VisualStudioCodeTutorial\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.exe
+D:\Code\Study\VisualStudioCodeTutorial\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.deps.json
+D:\Code\Study\VisualStudioCodeTutorial\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.runtimeconfig.json
+D:\Code\Study\VisualStudioCodeTutorial\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.runtimeconfig.dev.json
+D:\Code\Study\VisualStudioCodeTutorial\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.dll
+D:\Code\Study\VisualStudioCodeTutorial\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.pdb
+D:\Code\Study\VisualStudioCodeTutorial\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp3.1\StringLibrary.dll
+D:\Code\Study\VisualStudioCodeTutorial\ClassLibraryProjects\ShowCase\bin\Debug\netcoreapp3.1\StringLibrary.pdb
+D:\Code\Study\VisualStudioCodeTutorial\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.csproj.CopyComplete
+D:\Code\Study\VisualStudioCodeTutorial\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.dll
+D:\Code\Study\VisualStudioCodeTutorial\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.pdb
+D:\Code\Study\VisualStudioCodeTutorial\ClassLibraryProjects\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.genruntimeconfig.cache
