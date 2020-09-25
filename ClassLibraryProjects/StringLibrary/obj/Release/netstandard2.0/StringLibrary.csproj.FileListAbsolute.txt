@@ -1,0 +1,9 @@
+D:\Code\Study\VisualStudioCodeTutorial\ClassLibraryProjects\StringLibrary\bin\Release\netstandard2.0\StringLibrary.deps.json
+D:\Code\Study\VisualStudioCodeTutorial\ClassLibraryProjects\StringLibrary\bin\Release\netstandard2.0\StringLibrary.dll
+D:\Code\Study\VisualStudioCodeTutorial\ClassLibraryProjects\StringLibrary\bin\Release\netstandard2.0\StringLibrary.pdb
+D:\Code\Study\VisualStudioCodeTutorial\ClassLibraryProjects\StringLibrary\obj\Release\netstandard2.0\StringLibrary.csprojAssemblyReference.cache
+D:\Code\Study\VisualStudioCodeTutorial\ClassLibraryProjects\StringLibrary\obj\Release\netstandard2.0\StringLibrary.AssemblyInfoInputs.cache
+D:\Code\Study\VisualStudioCodeTutorial\ClassLibraryProjects\StringLibrary\obj\Release\netstandard2.0\StringLibrary.AssemblyInfo.cs
+D:\Code\Study\VisualStudioCodeTutorial\ClassLibraryProjects\StringLibrary\obj\Release\netstandard2.0\StringLibrary.csproj.CoreCompileInputs.cache
+D:\Code\Study\VisualStudioCodeTutorial\ClassLibraryProjects\StringLibrary\obj\Release\netstandard2.0\StringLibrary.dll
+D:\Code\Study\VisualStudioCodeTutorial\ClassLibraryProjects\StringLibrary\obj\Release\netstandard2.0\StringLibrary.pdb
