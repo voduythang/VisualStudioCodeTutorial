@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLibrary", "StringLibr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowCase", "ShowCase\ShowCase.csproj", "{D40D3431-B464-43BE-9E85-832B36CA1A04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "..\TDD\BubbleSort\BubbleSort.csproj", "{0EA62620-0627-4118-905E-2288F107587F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{D40D3431-B464-43BE-9E85-832B36CA1A04}.Release|x64.Build.0 = Release|Any CPU
 		{D40D3431-B464-43BE-9E85-832B36CA1A04}.Release|x86.ActiveCfg = Release|Any CPU
 		{D40D3431-B464-43BE-9E85-832B36CA1A04}.Release|x86.Build.0 = Release|Any CPU
+		{0EA62620-0627-4118-905E-2288F107587F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA62620-0627-4118-905E-2288F107587F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA62620-0627-4118-905E-2288F107587F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0EA62620-0627-4118-905E-2288F107587F}.Debug|x64.Build.0 = Debug|Any CPU
+		{0EA62620-0627-4118-905E-2288F107587F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0EA62620-0627-4118-905E-2288F107587F}.Debug|x86.Build.0 = Debug|Any CPU
+		{0EA62620-0627-4118-905E-2288F107587F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA62620-0627-4118-905E-2288F107587F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EA62620-0627-4118-905E-2288F107587F}.Release|x64.ActiveCfg = Release|Any CPU
+		{0EA62620-0627-4118-905E-2288F107587F}.Release|x64.Build.0 = Release|Any CPU
+		{0EA62620-0627-4118-905E-2288F107587F}.Release|x86.ActiveCfg = Release|Any CPU
+		{0EA62620-0627-4118-905E-2288F107587F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
