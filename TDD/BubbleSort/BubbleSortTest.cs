@@ -4,7 +4,7 @@ using NUnit.Framework;
 
 namespace BubbleSort
 {
-    public class Tests
+    public class BubbleSortTests
     {
         [SetUp]
         public void Setup()
